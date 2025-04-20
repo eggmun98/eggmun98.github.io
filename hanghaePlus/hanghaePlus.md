@@ -5,3 +5,6 @@
 ## AI 코스
 - [week1](./ai/week1.md)
 - [week2](./ai/week2.md)
+- [week3](./ai/week3.md)
+- [week4](./ai/week4.md)
+
