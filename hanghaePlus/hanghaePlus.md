@@ -8,5 +8,7 @@
 - [week3](./ai/week3.md)
 - [week4](./ai/week4.md)
 - [week5](./ai/week5.md)
+- [week6](./ai/week6.md)
+
 
 
