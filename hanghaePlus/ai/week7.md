@@ -27,6 +27,7 @@ Wandb의 장점 중 가장 인상적이었던 건:
 덕분에 학습 도중 GPU 메모리가 터지거나 loss가 폭주하는 상황을 즉시 발견하고 조치할 수 있었어요. Wandb 덕분에 개발의 품질이 확 올라가는 느낌을 강하게 받았습니다!
 
 ### 📌 GPT Fine-tuning 실습: Validation으로 완성도를 높이다
+![train vs eval loss](img/week7-trainVsEvalLoss.png)
 
 이번 주차의 메인 과제는 HuggingFace Trainer를 활용한 GPT 모델 Fine-tuning이었어요. HuggingFace를 이용하면 데이터셋 로딩, 토큰화, 모델 설정까지 간단하게 처리할 수 있어서 이전보다 훨씬 편했습니다.
 
